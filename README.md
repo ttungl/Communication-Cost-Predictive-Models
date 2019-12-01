@@ -1,6 +1,6 @@
 # Communication-Cost-Predictive-Models
 
-### If you use/modify partially or fully this code, please cite our papers below. This indicates your respectfulness to others. Thanks.
+**If you use/modify partially or fully this code, please cite our papers below. This indicates your respectfulness to the authors. Thanks.
 
 1. "Optimizing the Heterogeneous Network On-Chip Design in Manycore Architectures" in IEEE-SOCC'17 [https://ieeexplore.ieee.org/document/8226033]
 
